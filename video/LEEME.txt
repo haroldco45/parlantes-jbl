@@ -1,0 +1,6 @@
+VIDEOS REALES — súbelos aquí en MP4 (máx. ~25 MB cada uno para GitHub Pages):
+
+go4.mp4  clip5.mp4  flip7.mp4  charge6.mp4  xtreme4.mp4  partybox.mp4
+
+Si el video existe, aparece dentro de la ficha del modelo.
+Si no, el botón "Ver video" abre reseñas en YouTube.
