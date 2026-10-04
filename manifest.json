@@ -1,0 +1,10 @@
+{
+  "name": "JBL Boombox 4 · Harold Marín",
+  "short_name": "Boombox 4",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F3F5F8",
+  "theme_color": "#14213D",
+  "lang": "es-CO",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
